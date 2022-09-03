@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Recursive&display=swap");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --primary-color: #065f46;
+  font-family: "Recursive", sans-serif;
+  background-color: royalblue;
+}
+
+body {
+  height: 100vh;
+}
+
+main {
+  height: 85vh;
+}
+
+.heading {
+  color: var(--primary-color);
+}
+
+.description {
+  font-size: 3rem;
+  margin: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+input .label {
+  display: block;
+  font-size: large;
+  font-weight: 600;
+}
+
+input {
+  font-size: 14px;
+  outline: #fff;
+  margin: 1rem;
+  border: 2px solid var(--primary-color);
+  border-radius: 0.5rem;
+  max-width: 250px;
+  text-align: center;
+  width: 50%;
+  padding: 12px 20px;
+}
+.class-input {
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  margin: 2rem;
+}
+
+#show-btn {
+  background: var(--primary-color);
+  border: none;
+  color: #fff;
+  padding: 0.7rem 1rem;
+  border-radius: 5px;
+  font-size: large;
+  cursor: pointer;
+  outline: #fff;
+  margin: auto;
+  display: block;
+  text-align: center;
+  /* position: absolute; */
+}
+
+#result {
+  display: block;
+  font-size: larger;
+  margin: 1rem 0 0;
+  text-align: center;
+}
+/* footer */
+
+.footer {
+  background-color: tomato;
+  padding: 1.5rem;
+  text-align: center;
+  color: white;
+  border: 1rem;
+  display: block;
+  height: 15vh;
+}
+
+.footer .footer-header {
+  font-weight: bold;
+  font-size: large;
+}
+.footer .link {
+  color: white;
+}
+
+.link {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  color: white;
+}
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
+
+/* container */
+/* .container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+} */
+
+/* .container-center {
+  max-width: 600px;
+  margin: auto;
+} */
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
+/* navigation */
+
+/* .nav-brand {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+.nav-pills {
+  text-align: right;
+}
+
+.navlink {
+  text-decoration: none;
+  color: #ffffff;
+}
+.link-active {
+  font-weight: bold;
+  text-decoration: none;
+} */
