@@ -6,7 +6,7 @@
 
 # Main Screen
 
-![image](https://res.cloudinary.com/debo7pflq/image/upload/v1662191850/Screenshot_1500_mggsyo.png)
+![image](https://res.cloudinary.com/debo7pflq/image/upload/v1662218387/github/Screenshot_1501_tpmqgj.png)
 
 # Live Link
 
